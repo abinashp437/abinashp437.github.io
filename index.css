@@ -1,0 +1,21 @@
+.green-text{
+  color:green;
+ }
+
+p{
+ font-size: 16px;
+ font-family: sans-serif;
+ color: green;
+}
+body{
+
+ background-image: url("profilebackground.jpg");
+ background-size: auto;
+}
+h1{
+ font-family: Lobster;
+ color:blue;
+}
+a:hover{
+  font-size:30px;
+}

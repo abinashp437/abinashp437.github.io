@@ -1,0 +1,38 @@
+body{
+  background-image: url("namebackground.jpg");
+  background-size: 1920px 1200px;
+  background-color: rgba(0,0,0,0.1);
+}
+p{
+  font-size: 16px;
+  font-family: sans-serif;
+  color: rgb(255,196,32);
+}
+li{
+  font-size: 16px;
+  font-family: sans-serif;
+  color: rgb(132,255,65);
+}
+img {
+  height:200px;
+  width:200px;
+  margin: auto;
+}
+
+ .fa:hover {
+  box-shadow: 3px 3px 15px ;
+  font-size: 80px !important;
+}
+p1{
+   font-family: Lobster;
+   font-size: 16px;
+   color:rgb(179,125,56)
+ }
+ p1:hover {
+   font-size: 30px;
+ }
+ .fa{
+   font-size: 50px ;
+   aria-hidden = "true";
+   boundary:100%;
+ }
