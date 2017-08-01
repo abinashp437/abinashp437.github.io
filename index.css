@@ -9,7 +9,7 @@ p{
   font-family: sans-serif;
   color: rgb(255,196,32);
 }
-li{
+h2{
   font-size: 16px;
   font-family: sans-serif;
   color: rgb(132,255,65);
@@ -26,7 +26,7 @@ img {
 }
 p1{
    font-family: Lobster;
-   font-size: 16px;
+   font-size: 20px;
    color:rgb(179,125,56)
  }
  p1:hover {
